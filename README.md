@@ -10,3 +10,6 @@ based on these findings. Our primary focus is the JAFFE dataset,
 combined with the existing algorithms that we have found on the github, 
 and make improvements on the training process; for example, attempting using
 unlabled pictures to train images to lower the errors. 
+
+
+External coding references: https://github.com/ShuvenduRoy/FER_TL_PipelineTraining
